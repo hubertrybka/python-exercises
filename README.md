@@ -6,7 +6,7 @@ Python exercises covering data-related libraries. Can be used as a gentle introd
 ## Installation
 1. Clone the repository:
 ```bash
-git clone
+git clone https://github.com/hubertrybka/python-exercises.git
 ```
 2. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) following the instructions for your operating
    system.
