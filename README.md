@@ -3,6 +3,27 @@ Python exercises covering data-related libraries. Can be used as a gentle introd
 
 ***
 
+## Installation
+1. Clone the repository:
+```bash
+git clone
+```
+2. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) following the instructions for your operating
+   system.
+
+3. Create and activate a new conda environment:
+```bash
+conda create -n pyhton-exercises -f environment.yml
+conda activate python-exercises
+```
+
+4. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+***
+
 ## Table of contents:
 1. Introduction to padas and seaborn. Exploratory data analysis.
 2. Defining classes and working with objects. Random variables and probability.
