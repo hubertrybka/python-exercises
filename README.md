@@ -16,7 +16,7 @@ git clone https://github.com/hubertrybka/python-exercises.git
 cd python-exercises
 ```
 
-5. Create and activate a new conda environment:
+4. Create and activate a new conda environment:
 ```bash
 conda create -n pyhton-exercises -f environment.yml
 conda activate python-exercises
