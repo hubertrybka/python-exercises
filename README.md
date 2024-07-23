@@ -11,13 +11,18 @@ git clone https://github.com/hubertrybka/python-exercises.git
 2. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) following the instructions for your operating
    system.
 
-3. Create and activate a new conda environment:
+3. Navigate to the directory:
+```bash
+cd python-exercises
+```
+
+5. Create and activate a new conda environment:
 ```bash
 conda create -n pyhton-exercises -f environment.yml
 conda activate python-exercises
 ```
 
-4. Launch Jupyter Notebook:
+5. Launch Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
